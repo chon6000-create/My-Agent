@@ -472,5 +472,21 @@
     "category": "general",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17811323921216574",
+    "text": "[운영 2026-06-10 사이클#24] 영숙: 분석 결과를 바탕으로 MVP 기능 정의서 초안 작성 (writer, editor 활용) (오늘업무_2026-06-10/오늘브리핑.md)",
+    "tags": [
+      "2026",
+      "운영",
+      "사이클",
+      "영숙",
+      "분석",
+      "결과를"
+    ],
+    "ts": 1781132392121,
+    "category": "general",
+    "source": "agent",
+    "verified": true
   }
 ]

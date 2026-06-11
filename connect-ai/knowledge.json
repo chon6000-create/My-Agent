@@ -504,5 +504,21 @@
     "category": "general",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n178118131745432",
+    "text": "[운영 2026-06-11 사이클#27] 영숙: '안티그래비티' 내 AI 통합 구조(나노바나나, Veo 3.1) 최종 분석 및 요약 실행 (researche (오늘업무_2026-06-11/오늘브리핑.md)",
+    "tags": [
+      "2026",
+      "운영",
+      "사이클",
+      "영숙",
+      "안티그래비티",
+      "통합"
+    ],
+    "ts": 1781181317455,
+    "category": "general",
+    "source": "agent",
+    "verified": true
   }
 ]
